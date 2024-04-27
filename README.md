@@ -1,4 +1,4 @@
-# Building a portfolio as a 2D Game
+# Built a portfolio as a 2D Game
 
 This a 2D game where you can play to view all the work I have done.
 
