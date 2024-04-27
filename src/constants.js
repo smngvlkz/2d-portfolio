@@ -4,7 +4,7 @@ export const dialogueData = {
   pc: `This is my PC. Where I do most of my studies and work. I like to code and play games.
     I've built a couple of web apps. I also like Python, Typescript, C and many others. Anyway regardless of the language, I just like programming.
     Here is my <a href="https://github.com/smngvlkz" target="_blank">Github</a>!`,
-  "cs-degree": `This is where my Computer Science degree would've been. But I get all my theoretical knowledge and foundation from this cool school <a href="https://wwww.alxafrica.com" target="_blank">ALX Africa</a>.`,
+  "cs-degree": `This is where my Computer Science degree would've been. But I get all my theoretical knowledge and foundation from this cool school <a href="https://www.alxafrica.com" target="_blank">ALX Africa</a>.`,
   "sofa-table": `That's my sofa. I like to relax here and read books. 
   I also play games and write some coding articles. Go sub to <a href="https://debuggingmywaythrough.hashnode.dev" target="_blank">My blog</a>! (If you like the content)
   You'll learn how I built some of my projects!`,
